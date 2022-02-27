@@ -1,3 +1,5 @@
-# stepik_tours
+# Stepik Tours
 
-Проект 1-й недели курса [Django с нуля на практике](https://stepik.org/course/63298).
+Проект 1--2-й недель курса [Django с нуля на практике](https://stepik.org/course/63298).
+
+Проект сервиса для бронирования туров.
